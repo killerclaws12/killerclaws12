@@ -26,9 +26,6 @@ Gotta love coding!.
 
 
 
-<p align="center">
-<a href="https://dev.to/killerclaws12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aayushi-droid" height="40" width="40" /></a>
-</p>
 
 
 **© [killerclaws12](https://github.com/killerclaws12)**
