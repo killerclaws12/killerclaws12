@@ -1,5 +1,5 @@
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning typescript
 - 💎 I make YouTube videos.
 - ⚡ Fun fact: I code Discord bots and websites and even mobile apps!
 
@@ -17,3 +17,11 @@
 <!-- <img align="left" alt="mongodb" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />  -->
 <img align="left" alt="firebase" width="26px" src="https://i.imgur.com/1RVXvxS.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
+
+
+
+
+
+
+
+**© [killerclaws12](https://github.com/killerclaws12)**
