@@ -1,6 +1,5 @@
 
 ```js
-<Quick Introduction>
 Gotta love coding!.
 ```
 
