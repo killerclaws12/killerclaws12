@@ -1,4 +1,10 @@
 
+```js
+<Quick Introduction>
+Gotta love coding!.
+```
+
+
 - 🌱 I’m currently learning typescript
 - 💎 I make YouTube videos.
 - ⚡ Fun fact: I code Discord bots and websites and even mobile apps!
