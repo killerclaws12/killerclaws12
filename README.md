@@ -10,10 +10,6 @@ Gotta love coding!.
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=killerclaws12&show_icons=true&count_private=true)
-
-
-
 ### Tools and Languages I use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
@@ -27,6 +23,8 @@ Gotta love coding!.
 <img align="left" alt="firebase" width="26px" src="https://i.imgur.com/1RVXvxS.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
+
+![](https://github-readme-stats.vercel.app/api?username=killerclaws12&show_icons=true&count_private=true)
 
 
 
