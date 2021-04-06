@@ -9,6 +9,13 @@ Gotta love coding!.
 - ⚡ Fun fact: I code Discord bots and websites and even mobile apps!
 
 
+<p align="center">
+<a href="https://komarev.com/ghpvc/?username=your-github-username&color=dc143c"><img src="https://komarev.com/ghpvc/?username=your-github-username&color=dc143c"></a>
+<a href="https://discord.link/hap"><img src="https://img.shields.io/discord/736923536475684974?label=Join%20HΛP&logo=discord&style=flat-square"></a>
+<a href="https://discord.link/hap"><img src="https://img.shields.io/static/v1?label=Walkoud%231981&color=purple&logo=discord&logoColor=white&message=Contact"></a>
+
+</p>
+
 
 ### Tools and Languages I use:
 
