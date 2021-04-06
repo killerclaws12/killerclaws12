@@ -25,7 +25,6 @@ Gotta love coding!.
 
 
 
-![Discord](https://discord.c99.nl/widget/theme-3/744603004493365330.png)
 
 
 
