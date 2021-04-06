@@ -10,7 +10,7 @@ Gotta love coding!.
 
 
 
-
+![](https://github-readme-stats.vercel.app/api?username=killerclaws12&show_icons=true&count_private=true)
 
 
 
