@@ -9,6 +9,7 @@ Gotta love coding!.
 - ⚡ Fun fact: I code Discord bots and websites and even mobile apps!
 
 
+![](https://github-readme-stats.vercel.app/api?username=killerclaws12&show_icons=true&count_private=true)
 
 ### Tools and Languages I use:
 
@@ -23,8 +24,6 @@ Gotta love coding!.
 <img align="left" alt="firebase" width="26px" src="https://i.imgur.com/1RVXvxS.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
 
-
-![](https://github-readme-stats.vercel.app/api?username=killerclaws12&show_icons=true&count_private=true)
 
 
 
