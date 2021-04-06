@@ -10,7 +10,7 @@ Gotta love coding!.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=killerclaws12&show_icons=true&count_private=true)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=killerclaws12&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+
 ### Tools and Languages I use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
@@ -26,7 +26,9 @@ Gotta love coding!.
 
 
 
-
+<p align="center">
+<a href="https://dev.to/killerclaws12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aayushi-droid" height="40" width="40" /></a>
+</p>
 
 
 **© [killerclaws12](https://github.com/killerclaws12)**
