@@ -5,7 +5,7 @@
 
 
 
-### Languages and Tools:
+### Tools and Languages I use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
