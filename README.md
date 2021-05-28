@@ -1,12 +1,12 @@
 
 ```js
-Gotta love coding!.
+I love coding!
 ```
 
 
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning typescript.
 - 💎 I make YouTube videos.
-- ⚡ Fun fact: I code Discord bots and websites and even mobile apps!
+- ⚡ Fun fact: I am a 15 year old developer.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=killerclaws12&show_icons=true&count_private=true)
