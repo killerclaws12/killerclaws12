@@ -23,7 +23,7 @@ I love coding!
 <!-- <img align="left" alt="mongodb" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />  -->
 <img align="left" alt="firebase" width="26px" src="https://i.imgur.com/1RVXvxS.png" /> 
 <img align="left" alt="photoshop" width="26px" src="https://i.imgur.com/OC1RcS5.jpg" /> <br />
-<img src="https://discord.c99.nl/widget/theme-2/792118923477647420.png">
+<img src="https://discord.c99.nl/widget/theme-2/620708924093628436.png">
 
 
 
