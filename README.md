@@ -1,8 +1,4 @@
 
-```js
-I love coding!
-```
-
 ![](https://github-readme-stats.vercel.app/api?username=killerclaws12&show_icons=true&count_private=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killerclaws12&theme=dark">
 
