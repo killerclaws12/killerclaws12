@@ -3,13 +3,8 @@
 I love coding!
 ```
 
-
-- 🌱 I’m currently learning typescript.
-- 💎 I make YouTube videos.
-- ⚡ Fun fact: I am a 15 year old developer.
-
-
 ![](https://github-readme-stats.vercel.app/api?username=killerclaws12&show_icons=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killerclaws12&theme=dark">
 
 ### Tools and Languages I use:
 
