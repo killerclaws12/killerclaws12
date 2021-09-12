@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="600"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=killerclaws12&show_icons=true&count_private=true)
 
