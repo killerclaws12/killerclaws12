@@ -12,5 +12,5 @@
 
 
 
-https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 **© [killerclaws12](https://github.com/killerclaws12)**
