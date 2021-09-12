@@ -1,4 +1,4 @@
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 ![](https://github-readme-stats.vercel.app/api?username=killerclaws12&show_icons=true&count_private=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killerclaws12&theme=dark">
 
@@ -11,6 +11,4 @@
 <img src="https://discord.c99.nl/widget/theme-2/620708924093628436.png">
 
 
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 **© [killerclaws12](https://github.com/killerclaws12)**
