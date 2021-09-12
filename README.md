@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=killerclaws12&show_icons=true&count_private=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killerclaws12&theme=dark">
+
 
 <h1>Programming Languages</h1>
 <p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50 height=50>
