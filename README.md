@@ -1,6 +1,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="900"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=killerclaws12&show_icons=true&count_private=true)
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=killerclaws12&show_icons=true&show_icons=true&title_color=000&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Statistics." /> -->
 
 
 <h1>Programming Languages</h1>
