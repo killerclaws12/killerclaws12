@@ -1,16 +1,32 @@
+<p align='center'>
+  <b>Hi 👋, I'm Killerclaws12</b><br>
+  <a href="https://discord.gg/pW4xBvrBH9">Discord</a> |
+  <a href="https://twitter.com/mrclaws101">Twitter</a> |
+</p>
 
+<p align="center"><br>
+  <a href="https://github.com/killerclaws12">
+    <img src="https://lanyard.cnrad.dev/api/620708924093628436"/>
+     </a>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=killerclaws12&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=killerclaws12&show_icons=true&show_icons=true&title_color=000&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true)
-
-
-<h1>Programming Languages</h1>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50 height=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=50 height=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50 height=50></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=50 height=50>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50 height=50></p>
-<img src="https://discord.c99.nl/widget/theme-2/620708924093628436.png">
-
-
-**© [killerclaws12](https://github.com/killerclaws12)**
+<br><br>
+<p align="center">
+	<b>Languages & Frameworks</b>
+	<br>
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
+	<br><br>
+	<b>My Github Stats</b><br>
+    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=killerclaws12&theme=dark&hide_border=true">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=killerclaws12&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killerclaws12&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
+</p>
