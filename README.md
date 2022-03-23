@@ -2,6 +2,7 @@
   <b>Hi 👋, I'm Killerclaws12</b><br>
   <a href="https://discord.gg/pW4xBvrBH9">Discord</a> |
   <a href="https://twitter.com/mrclaws101">Twitter</a> |
+  <a href = "https://twitch.tv/killerclaws12">Twitch</a>
 </p>
 
 <p align="center"><br>
