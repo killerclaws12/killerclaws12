@@ -7,4 +7,4 @@ My name is killerclaws12, a full-stack developer working on several open-sourced
 
 ### ✉️ Contact Me
 
-- [Discord](https://discord.com/users/710465231779790849) / Peter_#4444
+- [Discord](https://discord.com/users/719660045817872394) / Doggo123#0103
