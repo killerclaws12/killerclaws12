@@ -1,33 +1,10 @@
-<p align='center'>
-  <b>Hi 👋, I'm Killerclaws12</b><br>
-  <a href="https://discord.gg/lgbtqsafe">Discord</a> |
-  <a href="https://twitter.com/mrclaws101">Twitter</a> |
-  <a href = "https://twitch.tv/killerclaws12">Twitch</a>
-</p>
+![](https://hit.yhype.me/github/profile?user_id=72696414)
+## :wave: Hello there! Welcome to my profile
+![](https://komarev.com/ghpvc/?username=peterhanania)
 
-<p align="center"><br>
-  <a href="https://github.com/killerclaws12">
-    <img src="https://lanyard.cnrad.dev/api/719660045817872394"/>
-     </a>
-</p>
+My name is Peter, a full-stack developer working on several open-sourced projects that you can find in here!
+![Metrics](https://metrics.lecoq.io/peterhanania?template=classic&languages=1&isocalendar=1&activity=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&pagespeed.url=https%3A%2F%2Fpogy.xyz&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FBeirut)
 
-<br><br>
-<p align="center">
-	<b>Languages & Frameworks</b>
-	<br>
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;|
-	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
-	<br><br>
-	<b>My Github Stats</b><br>
-    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=killerclaws12&theme=dark&hide_border=true">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=killerclaws12&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killerclaws12&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
-</p>
+### ✉️ Contact Me
+
+- [Discord](https://discord.com/users/710465231779790849) / Peter_#4444
