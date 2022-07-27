@@ -34,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=killerclaws12&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="killerclaws12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killerclaws12&show_icons=true&theme=synthwave&locale=en" alt="killerclaws12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=killerclaws12&theme=highcontrast" alt="killerclaws12" /></p>
