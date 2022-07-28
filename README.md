@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **on Discord! (Sparky0103#0103)**
 
-- ⚡ Fun fact **Im 16 years old**
+- ⚡ Fun fact **Im founder of @GhostyORG**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
